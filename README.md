@@ -1,6 +1,5 @@
 ﻿# Health_app_version_n8n
 
-<img width="1563" height="555" alt="image" src="https://github.com/user-attachments/assets/1131432d-edee-4071-81ac-24099c64bfe4" />
 <img width="1177" height="978" alt="image" src="https://github.com/user-attachments/assets/7e0c9004-7ed6-4ada-9414-34dff0bd4af8" />
 
 🧪 Lab Report Buddy — Backend + Automation Pipeline
@@ -246,3 +245,5 @@ Multi-language summaries
 🧑‍💻 Author
 
 Built with ❤️ and sheer stubbornness by Piyush.
+
+<img width="1563" height="555" alt="image" src="https://github.com/user-attachments/assets/1131432d-edee-4071-81ac-24099c64bfe4" />
